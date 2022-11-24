@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/vygantyno/Desktop/nuxtjs-tailwind/nuxttailwind/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_920ea446"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/vygantyno/Desktop/nuxtjs-tailwind/nuxttailwind/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_a882fb60"
+  },
+  {
+    "name": "posts-mountain",
+    "path": "/posts/:mountain",
+    "component": "/Users/vygantyno/Desktop/nuxtjs-tailwind/nuxttailwind/pages/posts/_mountain.vue",
+    "chunkName": "pages/posts/_mountain",
+    "_name": "_4cce256a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/vygantyno/Desktop/nuxtjs-tailwind/nuxttailwind/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_476ba1e8"
+  }
+]
